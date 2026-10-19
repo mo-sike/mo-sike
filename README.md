@@ -35,4 +35,4 @@ Screenshot-only change detection and locator healing for mobile UI tests, with n
 
 #### 📫 Find me
 
-[LinkedIn](https://www.linkedin.com/in/mohammed-saqlain-49bb18172/) · [X / Twitter](https://x.com/noxto88)
+[LinkedIn](https://www.linkedin.com/in/mo-sike) · [X / Twitter](https://x.com/noxto88)
